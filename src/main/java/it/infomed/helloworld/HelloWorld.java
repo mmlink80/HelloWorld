@@ -9,7 +9,7 @@ import org.apache.commons.lang.StringUtils;
 /**
  *
  * @author mario
- * commento modificato
+ * commento aggiunto
  */
 public class HelloWorld {
     
